@@ -1,0 +1,21 @@
+body{
+    background:gray;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#div{
+   box-shadow:2px 2px 8px 3px black;
+    width:60vw;
+    padding: 20px;
+    border:2px solid black;
+    border-radius: 20px;
+    line-height: 30px;
+
+}
+label{
+    font-weight:600 ;
+    font-size:18px;
+}
+
+
